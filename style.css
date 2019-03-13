@@ -57,11 +57,11 @@ h1{
 }
 .block-home{
     margin: 0 auto;
-    width: 50%;
+    width: 60%;
     position: relative;
     font-size: 0.42rem;
     text-align: center;
-    top: 2rem;
+    top: 2.5rem;
 }
 .text-block-home{
     font-size: 0.42rem;
@@ -70,46 +70,59 @@ h1{
     padding: 0.05rem;
     background: #353f46;
     opacity: 0.85;
+    text-transform: uppercase;
 }
 .bg-services{
     margin: 0;
-    height: 4rem;
-    background: #4de;
+    height: 4.05rem;
+    background: #4bcaff;
 }
 .services{
-    height: 3.5rem;
+    position: relative;
+    /* height: 4.05rem; */
     margin: 0 auto;
-    width: 14.8rem;
-    background: #000;
+    width: 11.8rem;
 }
 h2 { 
-    position: relative;
+    position: absolute;
     margin: 0;
     width: 20%;
     text-align: left;
-    background: aliceblue;
-    font-size: 0.32rem;
+    color: #fff;
+    font-size: 0.3rem;
+    line-height: 0.24rem;
+    font-weight: lighter;
+    top: 0.8rem;
 
+}
+.img-services{
+    position: absolute;
+    top: 1.55rem;
 }
 .one-block-service{
     margin: 0;
     width: 25%;
     height: 100%;
-    background-color: darkgreen;
     float: left;
 }
 h3{
+    position: absolute;
+    top:2.25rem;
     margin: 0;
-    width: 33%;
     text-align: left;
-    background: blue;
-    font-size: 0.32rem;
+    font-size: 0.24rem;
+    font-weight: 600;
+    color: #fff;
 }
-p{
-    font-size: 0.16px;
-    color: #000;
-    height: 50%;
-    background: aliceblue;
+.text-services{
+    position: relative;
+    top:2.6rem;
+    margin: 0 5% 0 0;
+    text-align: left;
+    font-size: 0.12rem;
+    font-weight: 600;
+    color: #fff;
+    line-height: 0.18rem;
 }
 .bg-portfolio{
     margin: 0;
