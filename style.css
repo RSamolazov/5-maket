@@ -1,0 +1,123 @@
+html{
+    font-size: 100px;
+}
+body{
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+.wrapper{
+    margin: 0 auto;
+    width: 19.2rem;
+}
+.home{
+    height: 8rem;
+    background: blue;
+}
+.bg-top-header{
+    background: gold;
+    height: 1.5rem;
+}
+.top-header{
+    margin: 0 auto;
+    width: 14.8rem;
+    background: #000;
+    /* height: 1.5rem; */
+}
+h1{
+    position: relative;
+    top: 0.56rem;
+    margin: 0;
+    width: 50%;
+    float: left;
+    text-align: left;
+    /* background: aliceblue; */
+    font-size: 0.32rem;
+}
+.top-nav{
+    margin: 0;
+    position: relative;
+    top: 0.56rem;
+    width: 50%;
+    float: right;
+    background: #3ff;
+    font-size: 0.32rem;
+    text-align: right;
+
+
+}
+.block-home{
+    margin: 0 auto;
+    width: 20%;
+    height: 4rem;
+    background: silver;
+    position: relative;
+}
+.bg-services{
+    margin: 0;
+    height: 4rem;
+    background: #4de;
+}
+.services{
+    height: 3.5rem;
+    margin: 0 auto;
+    width: 14.8rem;
+    background: #000;
+}
+h2 { 
+    position: relative;
+    margin: 0;
+    width: 20%;
+    text-align: left;
+    background: aliceblue;
+    font-size: 0.32rem;
+
+}
+.one-block-service{
+    margin: 0;
+    width: 25%;
+    height: 100%;
+    background-color: darkgreen;
+    float: left;
+}
+h3{
+    margin: 0;
+    width: 33%;
+    text-align: left;
+    background: blue;
+    font-size: 0.32rem;
+}
+p{
+    font-size: 0.16px;
+    color: #000;
+    height: 50%;
+    background: aliceblue;
+}
+.bg-portfolio{
+    margin: 0;
+    height: 6rem;
+    
+}
+/* .portfolio{
+    height: 1.5rem;
+    margin: 0 auto;
+    width: 14.8rem;
+    background: #e4e;
+} */
+.header-portfolio{
+    height: 1.5rem;
+    margin: 0 auto;
+    width: 14.8rem;
+    background: #e4e;
+}
+.nav-header-portfolio{
+    margin: 0;
+    position: relative;
+    /* top: 0rem; */
+    width: 50%;
+    float: right;
+    background: #3ff;
+    font-size: 0.32rem;
+    text-align: right;
+}
