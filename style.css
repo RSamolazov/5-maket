@@ -142,7 +142,7 @@ h3{
     top: 0.8rem;
 }
 .header-portfolio{
-    height: 2rem;
+    height: 1.5rem;
     margin: 0 auto;
     width: 11.8rem;
 }
@@ -166,4 +166,15 @@ h3{
 .href-portfolio:hover{
     color: #4de;
     border: #4de solid 1px;
+}
+.portfolio{
+    margin: 0 auto;
+    width: 11.8rem;
+}
+.images-portfolio{
+    width: 2.7rem;
+    height: 2.7rem;
+    float:left;
+    margin-right: 0.33rem;
+    margin-top: 0.33rem;
 }
