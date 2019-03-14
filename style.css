@@ -12,6 +12,7 @@ a{
     margin: 0 auto;
     width: 19.2rem;
    }
+   /* HOME */
 .home{
     height: 8rem;
     background: #515f67 url('images/kolosa.gif');
@@ -72,6 +73,7 @@ h1{
     opacity: 0.85;
     text-transform: uppercase;
 }
+/* SERVICES */
 .bg-services{
     margin: 0;
     height: 4.05rem;
@@ -124,6 +126,7 @@ h3{
     color: #fff;
     line-height: 0.18rem;
 }
+/* PORTFOLIO */
 .bg-portfolio{
     margin: 0;
     height: 8rem;
@@ -182,4 +185,56 @@ h3{
 .images-portfolio:hover{
     opacity: 0.99;
 
+}
+/* JUST DEFAULT SECTION */
+.just-default-bg{
+    margin: 0;
+    height: 4.7rem;
+    background: #515f67;
+}
+.just-default{
+    position: relative;
+    margin: 0 auto;
+    width: 11.8rem;
+}
+.left-just-default{
+    float: left;
+    width: 50%;
+}
+.just-default-zaglav { 
+    position: absolute;
+    margin: 0;
+    width: 30%;
+    text-align: left;
+    color: #fff;
+    font-size: 0.3rem;
+    line-height: 0.24rem;
+    font-weight: lighter;
+    top: 0.8rem;
+}
+.text-just-default{
+    width: 78%;
+    position: relative;
+    top: 1.1rem;
+    font-size: 0.14rem;
+    line-height: 0.24rem;
+    color: #fff;
+}
+.link-just-default{
+    position: relative;
+    top: 0.5rem;
+    font-size: 0.14rem;
+    line-height: 0.24rem;
+    color: #353f46;
+    padding: 0.1rem;
+    border: #353f46 solid 2px;
+}
+.link-just-default:hover{
+    color: #fff;
+    border:#fff solid 2px;
+}
+.video-just-default{
+    float: right;
+    position: relative;
+    top: 0.5rem;
 }
