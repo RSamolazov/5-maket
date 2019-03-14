@@ -83,7 +83,7 @@ h1{
     margin: 0 auto;
     width: 11.8rem;
 }
-h2 { 
+.services-zaglav { 
     position: absolute;
     margin: 0;
     width: 20%;
@@ -126,28 +126,44 @@ h3{
 }
 .bg-portfolio{
     margin: 0;
-    height: 6rem;
+    height: 8rem;
+    position: relative;
     
 }
-/* .portfolio{
-    height: 1.5rem;
-    margin: 0 auto;
-    width: 14.8rem;
-    background: #e4e;
-} */
+.portfolio-zaglav { 
+    position: relative;
+    margin: 0;
+    width: 20%;
+    text-align: left;
+    color:#515f67;
+    font-size: 0.3rem;
+    line-height: 0.24rem;
+    font-weight: lighter;
+    top: 0.8rem;
+}
 .header-portfolio{
-    height: 1.5rem;
+    height: 2rem;
     margin: 0 auto;
-    width: 14.8rem;
-    background: #e4e;
+    width: 11.8rem;
 }
 .nav-header-portfolio{
+    top: 0.5rem;
     margin: 0;
     position: relative;
-    /* top: 0rem; */
     width: 50%;
     float: right;
-    background: #3ff;
     font-size: 0.32rem;
     text-align: right;
+}
+.href-portfolio{
+    display: inline-block;
+    font-size: 0.14rem;
+    line-height: 0.24rem;
+    margin-left:   0.35rem;
+    padding: 0.1rem;
+  
+}
+.href-portfolio:hover{
+    color: #4de;
+    border: #4de solid 1px;
 }
