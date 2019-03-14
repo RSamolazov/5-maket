@@ -238,3 +238,39 @@ h3{
     position: relative;
     top: 0.5rem;
 }
+/* TWIITTER */
+.bg-twitter{
+    margin: 0;
+    height: 3.05rem;
+    background: #4bcaff;
+}
+.twitter{
+    position: relative;
+    margin: 0 auto;
+    width: 11.8rem;
+}
+.zaglav-twitter{
+    position: absolute;
+    margin: 0;
+    width: 30%;
+    text-align: left;
+    color: #fff;
+    font-size: 0.3rem;
+    line-height: 0.24rem;
+    font-weight: lighter;
+    top: 0.8rem;
+}
+.images-twitter{
+    position: relative;
+    float: right;
+    top: 0.8rem;
+}
+.text-twitter{
+    margin: 0;
+    position: relative;
+    top: 1.5rem;
+    font-size: 0.28rem;
+    line-height: 0.5rem;
+    color: #fff;
+
+}
