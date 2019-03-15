@@ -275,6 +275,57 @@ h3{
 
 }
 /* WHO IS JOHN DOE */
+.bg-who-is{
+    height: 5rem;
+    background: #353f47  url('images/whoIs.gif') center ;
+    background-blend-mode: luminosity; 
+}
+.who-is{
+    position: relative;
+    margin: 0 auto;
+    width: 11.8rem;
+}
+.zaglav-who-is{
+    position: absolute;
+    margin: 0;
+    width: 30%;
+    text-align: left;
+    color: #fff;
+    font-size: 0.3rem;
+    line-height: 0.24rem;
+    font-weight: lighter;
+    top: 0.8rem;
+}
+.left-who-is{
+    position: relative;
+    margin: 0 auto;
+    width: 47%;
+    float: left;
+}
+.text-who-is{
+    position: relative;
+    font-size: 0.14rem;
+    line-height: 0.24rem;
+    color: #fff;
+    top: 1.5rem;
+ }
+.right-who-is{
+    position: relative;
+    margin: 0 auto;
+    width: 47%;
+    float: right;
+}
+.block-images-who-is{
+    position: relative;
+    top: 1rem;
+  }
+.images-who-is{
+    display: inline-block;
+    padding: 0.1rem;
+    border: #fff solid 2px;
+    width: 28px;
+    height: 29px;
+}
 /* TESTIMONIALS */
 /* CONTACT */
 /* FOTER */
