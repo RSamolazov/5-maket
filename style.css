@@ -327,5 +327,46 @@ h3{
     height: 29px;
 }
 /* TESTIMONIALS */
+.testimonials{
+    position: relative;
+    margin: 0 auto;
+    width: 11.8rem;
+    height: 3rem;
+}
+.zaglav-testimonials{
+    position: relative;
+    margin: 0;
+    width: 20%;
+    color:#515f67;
+    font-size: 0.3rem;
+    line-height: 0.24rem;
+    font-weight: lighter;
+    top: 0.8rem;
+    float: left;
+}
+.images-testimonials{
+    position: relative;
+    float:right;
+    top: 0.8rem;    
+    margin: 0;
+}
+.text-testimonials{
+    position: relative;
+    font-size: 0.28rem;
+    line-height: 0.5rem;
+    font-weight: lighter;
+    width: 90%;
+    color:#515f67;
+    top: 1.2rem;
+    margin: 0;
+    float: left;
+}
+.link-testimonials{
+    position: relative;
+    font-size: 0.14rem;
+    line-height: 0.5rem;
+    font-weight: bold;
+    color:#4bcaff;
+    }
 /* CONTACT */
 /* FOTER */
